@@ -6,8 +6,8 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-export default defineConfig({
-  base: '/',
+export default defineConfig(({ command }) => ({
+  base: command === 'build' ? '/Vaijayantanew/' : '/',
   plugins: [
     react(),
     tailwindcss(),
@@ -22,4 +22,4 @@ export default defineConfig({
     port: 5000,
     allowedHosts: true,
   },
-});
+}));
