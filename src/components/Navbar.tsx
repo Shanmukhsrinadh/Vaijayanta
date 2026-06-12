@@ -1,14 +1,13 @@
 import { memo, useCallback, useMemo, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Link } from 'wouter';
+import { Link, useLocation } from 'wouter';
 import { Menu, X, Search } from 'lucide-react';
-import { useSmoothScroll } from '../hooks/use-smooth-scroll';
 import SearchBar from './SearchBar';
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
-  const { scrollToSection } = useSmoothScroll();
+  const [currentPath] = useLocation();
 
   const navLinks = useMemo(
     () => [
@@ -24,12 +23,44 @@ function Navbar() {
   const toggleMenu = useCallback(() => setIsOpen((prev) => !prev), []);
   const closeSearch = useCallback(() => setIsSearchOpen(false), []);
 
-  const handleMobileNavClick = useCallback(
+  const scrollToHash = useCallback((hash: string) => {
+    const el = document.getElementById(hash);
+    if (el) {
+      const y = el.getBoundingClientRect().top + window.pageYOffset - 80;
+      window.scrollTo({ top: y, behavior: 'smooth' });
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }, []);
+
+  const handleNavClick = useCallback(
     (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
+      e.preventDefault();
       setIsOpen(false);
-      scrollToSection(e, href);
+
+      const isOnHome = currentPath === '/';
+      const hashIndex = href.indexOf('#');
+
+      if (hashIndex === -1) {
+        // HOME link — no hash
+        if (isOnHome) {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        } else {
+          window.location.href = '/';
+        }
+        return;
+      }
+
+      const hash = href.substring(hashIndex + 1);
+
+      if (isOnHome) {
+        scrollToHash(hash);
+      } else {
+        // Navigate to home, then scroll after Home mounts
+        window.location.href = `/#${hash}`;
+      }
     },
-    [scrollToSection]
+    [currentPath, scrollToHash]
   );
 
   return (
@@ -70,7 +101,7 @@ function Navbar() {
               <a
                 key={link.name}
                 href={link.href}
-                onClick={(e) => scrollToSection(e, link.href)}
+                onClick={(e) => handleNavClick(e, link.href)}
                 className="text-sm font-bold uppercase tracking-widest text-gray-800 hover:text-[#e8c547] transition-colors whitespace-nowrap"
               >
                 {link.name}
@@ -95,7 +126,7 @@ function Navbar() {
                 key={link.name}
                 href={link.href}
                 className="text-xl font-black text-[#800020] uppercase tracking-widest"
-                onClick={(e) => handleMobileNavClick(e, link.href)}
+                onClick={(e) => handleNavClick(e, link.href)}
               >
                 {link.name}
               </a>
