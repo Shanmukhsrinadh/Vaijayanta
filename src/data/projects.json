@@ -185,14 +185,14 @@
             "title": "Aero Square",
             "shortTagline": "Premium Gated Community near International Airport",
             "description": "Aero Square is a visionary residential project located just minutes from the upcoming Bhogapuram International Airport offering strong appreciation and premium infrastructure.",
-            "heroImage": "/images/projects/img/sklm/true gold@chipurupalli/img1.webp",
+            "heroImage": "/projects/img/sklm/true gold@chipurupalli/img1.webp",
             "gallery": [
-              "/images/projects/img/sklm/true gold@chipurupalli/img2.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img3.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img4.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img5.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img6.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img7.webp"
+              "/projects/img/sklm/true gold@chipurupalli/img2.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img3.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img4.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img5.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img6.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img7.webp"
             ],
             "themeColor": "#800020",
             "highlight": true,
@@ -865,11 +865,11 @@
             "title": "Kohinoor Prime",
             "shortTagline": "Premium Residential Plots in Atchutapuram - South Vizag",
             "description": "Kohinoor Prime offers premium residential plots in Atchutapuram, South Vizag. Located near the 4500-acre Navy base, Yelamanchili Highway, and Industrial SEZ corridors, this project combines peaceful living with excellent investment potential in a rapidly developing area.",
-            "heroImage": "/images/projects/img/vsp/kohinoor hills/img1.webp",
+            "heroImage": "/projects/img/vsp/kohinoor hills/img1.webp",
             "gallery": [
-              "/images/projects/img/vsp/kohinoor hills/img2.webp",
-              "/images/projects/img/vsp/kohinoor hills/img3.webp",
-              "/images/projects/img/vsp/kohinoor hills/img4.webp"
+              "/projects/img/vsp/kohinoor hills/img2.webp",
+              "/projects/img/vsp/kohinoor hills/img3.webp",
+              "/projects/img/vsp/kohinoor hills/img4.webp"
             ],
             "themeColor": "#D4A017",
             "highlight": true,
@@ -971,14 +971,14 @@
             "title": "True Gold",
             "shortTagline": "Affordable Plotted Development in Cheepurupalli",
             "description": "True Gold is a premium residential plotted community developed by BBG India in Cheepurupalli, Srikakulam. The project offers VMRDA/DTCP approved open plots with modern infrastructure, clear title documents, wide blacktop roads, underground utilities, and green landscaped pockets. Designed for both investment and home construction, True Gold delivers strong ROI and lifestyle appeal.",
-            "heroImage": "/images/projects/img/sklm/true gold@chipurupalli/img1.webp",
+            "heroImage": "/projects/img/sklm/true gold@chipurupalli/img1.webp",
             "gallery": [
-              "/images/projects/img/sklm/true gold@chipurupalli/img2.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img3.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img4.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img5.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img6.webp",
-              "/images/projects/img/sklm/true gold@chipurupalli/img7.webp"
+              "/projects/img/sklm/true gold@chipurupalli/img2.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img3.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img4.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img5.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img6.webp",
+              "/projects/img/sklm/true gold@chipurupalli/img7.webp"
             ],
             "themeColor": "#D4A017",
             "highlight": true,
@@ -1158,9 +1158,9 @@
             "description": "Capital West Kondapavuluru is a premier residential plotted development located in the heart of the Amaravati capital region. With exceptional connectivity to NH-16 (just 100 meters away), West Bypass Road, and Gannavaram Airport (9 km), this project offers the perfect blend of peaceful living and high-return investment potential.",
             "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1600",
             "gallery": [
-              "/images/projects/img/amaravathi/beverly hills/img1.webp",
-              "/images/projects/img/amaravathi/beverly hills/img2.webp",
-              "/images/projects/img/amaravathi/beverly hills/img3.webp"
+              "/projects/img/amaravathi/beverly hills/img1.webp",
+              "/projects/img/amaravathi/beverly hills/img2.webp",
+              "/projects/img/amaravathi/beverly hills/img3.webp"
             ],
             "themeColor": "#2E7D32",
             "highlight": true,

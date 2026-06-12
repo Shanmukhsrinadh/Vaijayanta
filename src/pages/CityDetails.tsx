@@ -118,18 +118,7 @@ export default function CityDetails() {
 
   const isProjectMediaMatch = useCallback((project: any, path?: string | null) => {
     if (!project || !path) return false;
-    if (/^(https?:|data:|blob:)/i.test(path)) return true;
-
-    const normalizedPath = path.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-    const titleParts = (project.title || '')
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, ' ')
-      .trim()
-      .split(/\s+/)
-      .filter(Boolean);
-    const signature = titleParts.slice(0, Math.min(3, titleParts.length)).join(' ');
-
-    return Boolean(signature) && normalizedPath.includes(signature);
+    return true;
   }, []);
 
   const getProjectImagePath = useCallback((project: any) => {
