@@ -1,0 +1,1247 @@
+{
+  "vizianagaram": {
+    "cityName": "Vizianagaram",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eastern_Ghats_view_near_Sontivanipalem.jpg/1280px-Eastern_Ghats_view_near_Sontivanipalem.jpg",
+    "mapUrl": "https://datawrapper.dwcdn.net/cVuns/1/",
+    "keyHighlights": [
+      "Historical Significance: Rich cultural heritage and royal history.",
+      "Rapid Growth: Fast-paced infrastructure development and urban expansion.",
+      "Strategic Link: Excellent connectivity to Visakhapatnam via NH16.",
+      "Smart Investment: High appreciation potential in an emerging residential hub."
+    ],
+    "locations": {
+      "Raghumanda": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eastern_Ghats_view_near_Sontivanipalem.jpg/1280px-Eastern_Ghats_view_near_Sontivanipalem.jpg",
+        "about": "Raghumanda is a fast-developing residential corridor in Vizianagaram with excellent road connectivity and strong future growth potential.",
+        "investmentPotential": "High appreciation potential of 15-20% annually.",
+        "connectivity": "Direct access to arterial roads and close to city center.",
+        "projects": {
+          "TRUE_EMPIRE_DELUXE": {
+            "id": "true-empire-deluxe-viz",
+            "slug": "true-empire-deluxe-raghumanda",
+            "title": "True Empire Deluxe Block",
+            "shortTagline": "Premium Residential Gated Community with Luxury Amenities",
+            "description": "True Empire Deluxe Block is an exclusive gated community offering premium residential plots with world-class infrastructure, luxury amenities, and immediate registration benefits in a high-growth corridor.",
+            "heroImage": "/projects/img/vzm/true empire deluxe/img1.webp",
+            "gallery": [
+              "/projects/img/vzm/true empire deluxe/img2.webp",
+              "/projects/img/vzm/true empire deluxe/img3.webp",
+              "/projects/img/vzm/true empire deluxe/img4.webp"
+            ],
+            "themeColor": "#800020",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹14,999",
+              "pricePerSqYard": "₹14,999",
+              "availablePlotSizes": ["180 Sq.Yds", "220 Sq.Yds", "350 Sq.Yds"],
+              "estimatedReturn5Years": "3x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "⭐ Premium Luxury Zone",
+              "limitedOfferText": "₹75,000 early bird discount!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Strategically Located Amid Bhogapuram & Vizianagaram.",
+                "10 Minutes Drive To Vizianagaram Railway Station And Bus Complex.",
+                "It Is Surrounded By Many Engineering Colleges like Vims , Maharaja, Raghu & Lendi Engineering Colleges.",
+                "Easy Accessible To Both NH-5 & NH-43.",
+                "Very Close to Green Field International Airport.",
+                "Very Near to Existing Vizayanagaram 100 feet Innerring Road."
+              ],
+              "growthDrivers": [
+                "Proximity to proposed SEZ",
+                "Upcoming international school",
+                "New commercial developments nearby"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=18.059829898936066,83.42165713344562&t=h&z=18&output=embed",
+              "distanceHighlights": [
+                { "label": "Railway Station", "value": "8 Mins" },
+                { "label": "City Center", "value": "4 Mins" },
+                { "label": "International School", "value": "3 Mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks& Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VUDA / LP Approved", "RERA Certified", "DTCP Approved"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "910000000000",
+              "urgencyTag": "🔥 Only 15 Premium Plots Left!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=TRUE_EMPIRE_DELUXE"
+          },
+          "TRUE_EMPIRE_COMMERCIAL": {
+            "id": "true-empire-commercial-viz",
+            "slug": "true-empire-commercial-raghumanda",
+            "title": "True Empire Commercial Block",
+            "shortTagline": "Prime Commercial Plots in High-Traffic Zone",
+            "description": "True Empire Commercial Block offers strategically located commercial plots with high visibility, perfect for retail, offices, or showrooms. Benefit from the growing business corridor with excellent ROI potential.",
+            "heroImage": "/projects/img/vzm/true empire commercial block/img1.webp",
+            "gallery": [
+              "/projects/img/vzm/true empire commercial block/img2.webp",
+              "/projects/img/vzm/true empire commercial block/img3.webp",
+              "/projects/img/vzm/true empire commercial block/img4.webp"
+            ],
+            "themeColor": "#0047AB",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹16,999",
+              "pricePerSqYard": "₹16,999",
+              "availablePlotSizes": ["200 Sq.Yds", "300 Sq.Yds", "500 Sq.Yds"],
+              "estimatedReturn5Years": "4x",
+              "appreciationPotential": "Excellent",
+              "emiAvailable": true,
+              "priceBadge": "🏢 Prime Commercial Zone",
+              "limitedOfferText": "Corner plots at special prices!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Strategically Located Amid Bhogapuram & Vizianagaram.",
+                "10 Minutes Drive To Vizianagaram Railway Station And Bus Complex.",
+                "It Is Surrounded By Many Engineering Colleges like Vims , Maharaja, Raghu & Lendi Engineering Colleges.",
+                "Easy Accessible To Both NH-5 & NH-43.",
+                "Very Close to Green Field International Airport.",
+                "Very Near to Existing Vizayanagaram 100 feet Innerring Road.",
+                "Within Vizanagaram Corporation Limits..."
+              ],
+              "growthDrivers": [
+                "Main road frontage with high visibility",
+                "Adjacent to residential catchment area",
+                "Future commercial tax benefits"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=18.059829898936066,83.42165713344562&t=h&z=18&output=embed",
+              "distanceHighlights": [
+                { "label": "Railway Station", "value": "7 Mins" },
+                { "label": "City Center", "value": "3 Mins" },
+                { "label": "Bus Stand", "value": "5 Mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks& Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads",
+              "VMRDA & RERA Approved"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VUDA / LP Approved", "RERA Certified", "Commercial Zoning Clearance"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "910000000000",
+              "urgencyTag": "🔥 High-Visibility Plots Selling Fast!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=TRUE_EMPIRE_COMMERCIAL"
+          }
+        }
+      }
+    }
+  },
+  "visakhapatnam": {
+    "cityName": "Visakhapatnam",
+    "heroImage": "/projects/img/vsp/Visakhapatnamthumbnail.webp",
+    "mapUrl": "https://datawrapper.dwcdn.net/ndfaM/4/",
+    "keyHighlights": [
+      "Economic Powerhouse of Andhra Pradesh.",
+      "Upcoming Bhogapuram International Airport.",
+      "Rapidly expanding IT & Industrial corridors.",
+      "Premium coastal investment destination."
+    ],
+    "locations": {
+      "Bhogapuram": {
+        "thumbnail": "https://swarajya.gumlet.io/swarajya/2025-11-30/sg7xk1ne/G2Gl0BPbkAACSMg-1.jpeg?w=610&q=75&compress=true&format=auto",
+        "about": "Bhogapuram is the fastest-growing investment hotspot driven by the upcoming International Airport and Aerotropolis expansion.",
+        "investmentPotential": "Explosive growth predicted due to airport-driven development.",
+        "connectivity": "Prime access to NH16 and coastal corridor.",
+        "projects": {
+          "AERO SQUARE": {
+            "id": "aero-square-vizag",
+            "slug": "aero-square-bhogapuram",
+            "title": "Aero Square",
+            "shortTagline": "Premium Gated Community near International Airport",
+            "description": "Aero Square is a visionary residential project located just minutes from the upcoming Bhogapuram International Airport offering strong appreciation and premium infrastructure.",
+            "heroImage": "/images/projects/img/sklm/true gold@chipurupalli/img1.webp",
+            "gallery": [
+              "/images/projects/img/sklm/true gold@chipurupalli/img2.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img3.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img4.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img5.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img6.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img7.webp"
+            ],
+            "themeColor": "#800020",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹14,999",
+              "pricePerSqYard": "₹12,500",
+              "availablePlotSizes": ["200 Sq.Yds", "267 Sq.Yds", "400 Sq.Yds"],
+              "estimatedReturn5Years": "3x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "⭐ Premium Location",
+              "limitedOfferText": "Zero Registration Cost Offer!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Near to Green Field International Airport and Aviation Hub",
+                "Equidistant to the three districts of Vizag Vijayanagaram and Srikakulam",
+                "Very close to NH-16 (Chennai to Kolkata) ensuring excellent connectivity.",
+                "In close proximity to the Madhurawada IT Corridor enhancing access to technological and business hubs.",
+                "In close proximity to the Pydibhimavaram Industrial Corridor providing a strategic advantage for businesses.",
+                "Near the prestigious coastal corridor tourism hub and SEZs making it an attractive destination for both residents and visitors.",
+                "Proximity to key economic zones such as the IT and Industrial Corridors offers lucrative investment opportunities.",
+                "Surrounded by prominent schools and colleges including Oakridge International ensuring access to quality education and fostering community growth."
+              ],
+              "growthDrivers": [
+                "Bhogapuram Airport commissioning by 2026",
+                "New IT SEZ expansion in Gambheeram",
+                "Proposed Metro Rail connectivity"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d8999.314674325502!2d83.495175!3d18.0556!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzIwLjIiTiA4M8KwMjknNDIuNiJF!5e1!3m2!1sen!2sin!4v1771570233161!5m2!1sen!2sin",
+              "distanceHighlights": [
+                { "label": "Intl Airport", "value": "5 Mins" },
+                { "label": "NH16 Highway", "value": "1 Min" },
+                { "label": "Beach Road", "value": "15 Mins" },
+                { "label": "Vizag City", "value": "35 Mins" }
+              ]
+            },
+            "amenities": [
+              "Grand Entrance Arch",
+              "Clubhouse with Gym",
+              "Swimming Pool",
+              "Designer Landscaping",
+              "Underground Power Cables",
+              "Solar Street Lighting"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🚀 Prices Increasing Soon!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=AERO_SQUARE"
+          },
+          "AERO DESTINY": {
+            "id": "aero-destiny-vizag",
+            "slug": "aero-destiny-bhogapuram",
+            "title": "Aero Destiny",
+            "shortTagline": "VMRDA & RERA Approved Plots Near Airport",
+            "description": "Aero Destiny is a premium gated plotted development near Bhogapuram International Airport offering VMRDA-approved layouts, strong ROI potential, and early-entry pricing advantage.",
+            "heroImage": "/projects/img/vsp/Aero destiny/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/Aero destiny/img2.webp",
+              "/projects/img/vsp/Aero destiny/img3.webp",
+              "/projects/img/vsp/Aero destiny/img4.webp",
+              "/projects/img/vsp/Aero destiny/img5.webp",
+              "/projects/img/vsp/Aero destiny/img6.webp"
+            ],
+            "themeColor": "#2E5AA6",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹17,999",
+              "pricePerSqYard": "₹17,999",
+              "availablePlotSizes": ["169 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds", "460 Sq.Yds"],
+              "estimatedReturn5Years": "2.5x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "🌟 Early Entry Advantage",
+              "limitedOfferText": "Book with ₹51,000 Only!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Near Green Filed International Airport and Aviation Hub.",
+                "Equidistand to the three districts of Vizag, Vizianagaram and Srikakulam.",
+                "Very close to NH-16 (Chennai to Kolkata), ensuring excellent connectivity.",
+                "Close to Madhurawada IT Corridor, enhancing access to technological and business hubs.",
+                "Close to Pydibhimavaram Industrial Corridor, providing a strategic advantage for businesses.",
+                "Close to the prestigious coastal corridor, tourism hub and SEZs, making it an attractive destination for both residents and visitors.",
+                "Proximity to key economic zones such as the IT and Industrial Corridors offers lucrative investment opportunities.",
+                "Surrounded by prominent schools and colleges including Oakridge International, ensuring access to quality education and fostering community growth."
+              ],
+              "growthDrivers": [
+                "Airport development",
+                "Aerotropolis corridor",
+                "NH16 connectivity expansion"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d18000.671766476706!2d83.481982!3d18.035645!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAyJzA4LjMiTiA4M8KwMjknMDQuNCJF!5e1!3m2!1sen!2sin!4v1772919786670!5m2!1sen!2si",
+              "distanceHighlights": [
+                { "label": "Intl Airport", "value": "10 Mins" },
+                { "label": "NH16", "value": "5 Mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Club House",
+              "Designer Street Lighting",
+              "Exclusive Gaurded Community",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Residential Community",
+              "Swimming Pool",
+              "Underground Drainage System",
+              "Underground Water Supply",
+              "Wide Spacious Roads",
+              "VMRDA RERA APPROVED"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "📈 Early Phase Pricing!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=AERO_DESTINY"
+          },
+          "AERO CITY": {
+            "id": "aero-city-bhogapuram",
+            "slug": "aero-city-bhogapuram",
+            "title": "Aero City",
+            "shortTagline": "Luxurious villa plots near Greenfield International Airport",
+            "description": "Aero City offers luxurious villa plots conveniently situated near the Greenfield International Airport, with easy access to NH-16 (connecting Chennai to Kolkata). The project is VRMDA & RERA approved and features a well-planned residential community with modern amenities.",
+            "heroImage": "/projects/img/vsp/Aero city/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/Aero city/img2.webp",
+              "/projects/img/vsp/Aero city/img3.webp",
+              "/projects/img/vsp/Aero city/img4.webp",
+              "/projects/img/vsp/Aero city/img5.webp",
+              "/projects/img/vsp/Aero city/img6.webp"
+            ],
+            "themeColor": "#1F7A70",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹19,999",
+              "pricePerSqYard": "₹19,999",
+              "availablePlotSizes": ["200 Sq.Yds", "267 Sq.Yds", "400 Sq.Yds"],
+              "estimatedReturn5Years": "3x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "✈️ Airport Zone Premium",
+              "limitedOfferText": "Book with ₹51,000 only!"
+            },
+            "paymentOptions": {
+              "singlePayment": {
+                "bookingAmount": "51,000",
+                "allotmentAmount": "25% of plot cost (on or before 15 days from the date of booking)",
+                "fullPayment": "100% of plot cost (on or before 90 days from the date of booking)"
+              }
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Near to Green Field International Airport and Aviation Hub.",
+                "Equidistant to the three districts of Vizag, Vijayanagaram and Srikakulam.",
+                "Very close to NH-16 (Chennai to Kolkata) ensuring excellent connectivity.",
+                "In close proximity to the Madhurawada IT Corridor enhancing access to technological and business hubs.",
+                "In close proximity to the Pydibhimavaram Industrial Corridor providing a strategic advantage for businesses.",
+                "Near the prestigious coastal corridor tourism hub and SEZs making it an attractive destination for both residents and visitors.",
+                "Proximity to key economic zones such as the IT and Industrial Corridors offers lucrative investment opportunities.",
+                "Surrounded by prominent schools and colleges including Oakridge International ensuring access to quality education and fostering community growth."
+              ],
+              "growthDrivers": [
+                "Bhogapuram Airport commissioning by 2026",
+                "Aerotropolis expansion corridor",
+                "NH-16 connectivity multiplier effect"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d8999.314674325502!2d83.495175!3d18.0556!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzIwLjIiTiA4M8KwMjknNDIuNiJF!5e1!3m2!1sen!2sin!4v1771570233161!5m2!1sen!2sin",
+              "distanceHighlights": [
+                { "label": "Intl Airport", "value": "5 Mins" },
+                { "label": "NH16 Highway", "value": "1 Min" },
+                { "label": "IT Corridor", "value": "15 Mins" },
+                { "label": "Vizag City", "value": "35 Mins" }
+              ]
+            },
+            "amenities": [
+              "VRMDA & RERA Approved",
+              "24x7 Security",
+              "100% Vastu",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Residential Community",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VRMDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "✈️ Airport Advantage – Prices Rising Soon!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=AERO_CITY"
+          },
+          "KOHINOOR GATEWAY": {
+            "id": "kohinoor-gateway-bhogapuram",
+            "slug": "kohinoor-gateway-bhogapuram",
+            "title": "Kohinoor Gateway, Gateway Executive & Gateway Commercial",
+            "shortTagline": "Premium Residential & Commercial Plots near Bhogapuram Airport",
+            "description": "Kohinoor Gateway, Gateway Executive & Gateway Commercial is a premier plotted development located in Bhogapuram - North Vizag. The project offers both residential and commercial investment opportunities with excellent connectivity to Greenfield International Airport, NH-16, and key economic corridors.",
+            "heroImage": "/projects/img/vsp/Kohinoor gateway/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/Kohinoor gateway/img1.webp",
+              "/projects/img/vsp/Kohinoor gateway/img2.webp",
+              "/projects/img/vsp/Kohinoor gateway/img3.webp"
+            ],
+            "themeColor": "#D4A017",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹16,999",
+              "pricePerSqYard": "₹16,999",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds", "400 Sq.Yds"],
+              "estimatedReturn5Years": "3x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "🏆 Gateway to Growth",
+              "limitedOfferText": "Book with ₹51,000 only!"
+            },
+            "developmentCost": {
+              "estimatedCost": "₹1,200",
+              "costIncludes": "GST",
+              "perUnit": "Per Sq.Yd",
+              "disclaimer": "The aforesaid payment options are a representation of the total cost of the plot including the estimated plot development cost and the same is subject to the final mutual agreement to be entered into between the purchaser and the plot development company appointed by such purchaser. The aforesaid plot development cost is only an estimate cost and is subject to the final mutual agreement."
+            },
+            "paymentOptions": {
+              "singlePayment": {
+                "bookingAmount": "51,000",
+                "allotmentAmount": "25% of plot cost (on or before 15 days from the date of booking)",
+                "fullPayment": "100% of plot cost (on or before 90 days from the date of booking)"
+              }
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Near to Green Field International Airport and Aviation Hub.",
+                "Equidistant to the three districts of Vizag, Vijayanagaram and Srikakulam.",
+                "Very close to NH-16 (Chennai to Kolkata) ensuring excellent connectivity.",
+                "In close proximity to the Madhurawada IT Corridor enhancing access to technological and business hubs.",
+                "In close proximity to the Pydibhimavaram Industrial Corridor providing a strategic advantage for businesses.",
+                "Near the prestigious coastal corridor tourism hub and SEZs making it an attractive destination for both residents and visitors.",
+                "Proximity to key economic zones such as the IT and Industrial Corridors offers lucrative investment opportunities.",
+                "Surrounded by prominent schools and colleges including Oakridge International ensuring access to quality education and fostering community growth.",
+                "Located in a neighborhood with robust infrastructure and educational institutions providing a thriving and vibrant community."
+              ],
+              "growthDrivers": [
+                "Bhogapuram Airport commissioning by 2026",
+                "IT corridor expansion",
+                "Industrial corridor growth",
+                "Coastal tourism development"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d8999.314674325502!2d83.495175!3d18.0556!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzIwLjIiTiA4M8KwMjknNDIuNiJF!5e1!3m2!1sen!2sin!4v1771570233161!5m2!1sen!2sin",
+              "distanceHighlights": [
+                { "label": "Intl Airport", "value": "5 Mins" },
+                { "label": "NH16 Highway", "value": "2 Mins" },
+                { "label": "IT Corridor", "value": "10 Mins" },
+                { "label": "Vizag City", "value": "35 Mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🔥 Limited Gateway Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=KOHINOOR_GATEWAY"
+          },
+          "AERO HUB": {
+            "id": "aero-hub-bhogapuram",
+            "slug": "aero-hub-bhogapuram",
+            "title": "Aero Hub Phase - 1 & Block B, C, D",
+            "shortTagline": "VMRDA & RERA Approved Plots in Aerotropolis Zone",
+            "description": "Aero Hub Phase - 1 & Block B, C, D is a prestigious plotted development in Bhogapuram - North Vizag. Located in the heart of the Aerotropolis corridor, this VMRDA & RERA approved project offers 100% Vastu-compliant plots with world-class amenities and exceptional appreciation potential driven by the upcoming International Airport.",
+            "heroImage": "/projects/img/vsp/Aero hub/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/Aero hub/img2.webp",
+              "/projects/img/vsp/Aero hub/img3.webp",
+              "/projects/img/vsp/Aero hub/img4.webp",
+              "/projects/img/vsp/Aero hub/img5.webp",
+              "/projects/img/vsp/Aero hub/img6.webp"
+            ],
+            "themeColor": "#800020",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹21,999",
+              "pricePerSqYard": "₹21,999",
+              "availablePlotSizes": ["169 Sq.Yds", "200 Sq.Yds", "267 Sq.Yds", "400 Sq.Yds"],
+              "estimatedReturn5Years": "3.5x",
+              "appreciationPotential": "Exceptional",
+              "emiAvailable": true,
+              "priceBadge": "✈️ Aerotropolis Prime",
+              "limitedOfferText": "Book with ₹51,000 only!"
+            },
+            "developmentCost": {
+              "estimatedCost": "₹1,200",
+              "costIncludes": "GST",
+              "perUnit": "Per Sq.Yd",
+              "disclaimer": "The aforesaid payment options are a representation of the total cost of the plot including the estimated plot development cost and the same is subject to the final mutual agreement to be entered into between the purchaser and the plot development company appointed by such purchaser. The aforesaid plot development cost is only an estimate cost and is subject to the final mutual agreement."
+            },
+            "paymentOptions": {
+              "singlePayment": {
+                "bookingAmount": "51,000",
+                "allotmentAmount": "25% of plot cost (on or before 15 days from the date of booking)",
+                "fullPayment": "100% of plot cost (on or before 90 days from the date of booking)"
+              }
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Near to Green Field International Airport and Aviation Hub.",
+                "Equidistant to the three districts of Vizag, Vijayanagaram and Srikakulam.",
+                "Very close to NH-16 (Chennai to Kolkata) ensuring excellent connectivity.",
+                "Close to Madhurawada IT Corridor providing access to technological and business hubs.",
+                "Close to Pydibhimavaram Industrial Corridor offering strategic advantages for businesses.",
+                "Near prestigious coastal corridor tourism hub and SEZs making it attractive for residents and visitors.",
+                "Proximity to key economic zones like IT and Industrial Corridors presenting lucrative investment opportunities.",
+                "Surrounded by prominent schools and colleges including Oakridge International ensuring access to quality education and community growth."
+              ],
+              "growthDrivers": [
+                "Amazon Data Center nearby",
+                "Kanha Shanti Vaniam proximity",
+                "Bhogapuram Airport commissioning by 2026",
+                "Aerotropolis master plan development"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d8999.314674325502!2d83.495175!3d18.0556!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzIwLjIiTiA4M8KwMjknNDIuNiJF!5e1!3m2!1sen!2sin!4v1771570233161!5m2!1sen!2sin",
+              "distanceHighlights": [
+                { "label": "Intl Airport", "value": "5 Mins" },
+                { "label": "NH16 Highway", "value": "2 Mins" },
+                { "label": "Amazon Data Center", "value": "Nearby" },
+                { "label": "IT Corridor", "value": "10 Mins" }
+              ]
+            },
+            "amenities": [
+              "VMRDA & RERA Approved",
+              "24x7 Security",
+              "100% Vastu",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Residential Community",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🚀 Aero Hub Phase-1 Selling Fast!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=AERO_HUB"
+          }
+        }
+      },
+      "Anandapuram": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ef/NH5_at_Anandapuram_near_Vizag.jpg",
+        "about": "Anandapuram is one of the fastest-emerging residential corridors in North Visakhapatnam, strategically located along NH-16 with seamless access to IT hubs, industrial corridors, and upcoming infrastructure developments.",
+        "investmentPotential": "Strong appreciation potential driven by NH-16 connectivity and rapid urban expansion.",
+        "connectivity": "Excellent access to NH-16, Gambheeram IT corridor, and Vizag city center.",
+        "projects": {
+          "TRUE CAPITAL": {
+            "id": "true-capital-vizag",
+            "slug": "true-capital-anandapuram",
+            "title": "True Capital",
+            "shortTagline": "Premium VMRDA & RERA Approved Plots in Anandapuram",
+            "description": "True Capital is a premium gated plotted development by BBG located in Anandapuram, Visakhapatnam. Designed for both residential living and high-return investment, this project offers VMRDA & RERA-approved plots with modern infrastructure, wide roads, underground utilities, and excellent connectivity to NH-16 and major growth corridors.",
+            "heroImage": "/projects/img/vsp/True capital/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/True capital/img2.webp",
+              "/projects/img/vsp/True capital/img3.webp",
+              "/projects/img/vsp/True capital/img4.webp",
+              "/projects/img/vsp/True capital/img5.webp",
+              "/projects/img/vsp/True capital/img6.webp"
+            ],
+            "themeColor": "#1F7A70",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹15,999",
+              "pricePerSqYard": "₹15,999",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds"],
+              "estimatedReturn5Years": "2.5x",
+              "appreciationPotential": "High",
+              "emiAvailable": true,
+              "priceBadge": "🏆 NH-16 Growth Corridor",
+              "limitedOfferText": "Book with just ₹51,000 & lock current price!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Near to Green Field International Airport and Aviation Hub.",
+                "Equidistant to the three districts of Vizah, Vizianagaram and Srikakulam.",
+                "Very close to NH-16 (Chennai to Kolkata) ensuring excellent connectivity.",
+                "In close proximity to the Madhurawada IT Corridor enhancing access to technological and business hubs.",
+                "In close proximity to the Pydibhimavaram Industrial Corridor providing a strategic advantage for businesses.",
+                "Near the prestigious coastal corridor tourism hub and SEZs making it an attractive destination for both residents and visitors.",
+                "Proximity to key economic zones such as the IT and Industrial Corridors offers lucrative investment opportunities.",
+                "Surrounded by prominent schools and colleges including Oakridge International ensuring access to quality education and fostering community growth",
+                "Located in a neighborhood with robust infrastructure and educational institutions providing a thriving and vibrant community."
+              ],
+              "growthDrivers": [
+                "Expansion of NH-16 highway infrastructure",
+                "Nearby IT SEZ and industrial growth zones",
+                "Increasing residential migration towards outskirts",
+                "Upcoming commercial developments"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=17.951445343596255,83.36836471548942&t=h&z=18&output=embed",
+              "distanceHighlights": [
+                { "label": "NH16 Highway", "value": "2 Mins" },
+                { "label": "Gambheeram IT Hub", "value": "10 Mins" },
+                { "label": "Vizag Airport", "value": "25 Mins" },
+                { "label": "Vizag City Center", "value": "30 Mins" }
+              ]
+            },
+            "amenities": [
+              "100% Vastu",
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Gaurded Community",
+              "Parks & Garden Opwn Spaces",
+              "Rain Water Harvesting",
+              "Underground Drainage System",
+              "Underground Water Supply",
+              "VMRDA & RERA Approved",
+              "Wide Blacktop Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🔥 Limited Phase-1 Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=TRUE_CAPITAL"
+          }
+        }
+      },
+      "Kothavalasa": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kothavalasa_Railway_Station.jpg/1280px-Kothavalasa_Railway_Station.jpg",
+        "about": "Kothavalasa is a rapidly developing residential and investment corridor near Visakhapatnam, well-connected by road and rail, offering serene surroundings with strong growth potential due to nearby infrastructure projects and proximity to Vizag and Vizianagaram.",
+        "investmentPotential": "High growth expected due to connectivity, upcoming developments and VMRDA-approved layouts.",
+        "connectivity": "Excellent access to NH-16, proposed airport corridors and regional rail network.",
+        "projects": {
+          "KOHINOOR HILLS": {
+            "id": "kohinoor-hills-vizag",
+            "slug": "kohinoor-hills-kothavalasa",
+            "title": "Kohinoor Hills",
+            "shortTagline": "Premium VMRDA-Approved Gated Plots in Kothavalasa",
+            "description": "Kohinoor Hills is a premium residential gated plotted community developed by BBG India in Kothavalasa, Visakhapatnam. The project offers legal, VMRDA-approved open plots with quality infrastructure, blacktop roads, underground utilities, greenery and parks. It combines peaceful living with smart investment potential in a rapidly growing location.",
+            "heroImage": "/projects/img/vsp/kohinoor hills/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/kohinoor hills/img2.webp",
+              "/projects/img/vsp/kohinoor hills/img3.webp",
+              "/projects/img/vsp/kohinoor hills/img4.webp",
+              "/projects/img/vsp/kohinoor hills/img5.webp",
+              "/projects/img/vsp/kohinoor hills/img6.webp"
+            ],
+            "themeColor": "#6A3D9A",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹12,999",
+              "pricePerSqYard": "₹12,999",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds"],
+              "estimatedReturn5Years": "2.8x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "🌄 Scenic Growth Corridor",
+              "limitedOfferText": "Book with ₹51,000 booking amount!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Kohinoor Hills is located in Kothavalasa, Vizianagaram District, close to the Howrah–Chennai railway corridor and the important Kothavalasa–Kirandul freight railway line, which transports iron ore to Visakhapatnam Port.",
+                "Located near the Kothavalasa–Araku tourism route, providing convenient access to one of the most popular hill tourism corridors in North Andhra.",
+                "Patanjali Ayurved has proposed a food and herbal processing park in Vizianagaram district, with land allocated near Chinnaraopalli village in Kothavalasa mandal, expected to generate significant employment.",
+                "The project is located near the NH-516B corridor (Pendurthi – Kothavalasa – Bowdara), which is being upgraded to improve connectivity between Visakhapatnam, Vizianagaram, and Araku regions.",
+                "NH-516B connects to NH-16 near Pendurthi and improves travel toward Araku and agency areas.",
+                "The location has access to educational institutions such as AP Model Schools (English Medium) and healthcare facilities in the surrounding region."
+              ],
+              "growthDrivers": [
+                "Proximity to Bhogapuram Airport corridor",
+                "Regional infrastructure expansion on NH-16",
+                "Growing residential demand in Kothavalasa"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=17.918828061831334,83.20850397563436&t=h&z=18&output=embed",
+              "distanceHighlights": [
+                { "label": "Kothavalasa Railway Station", "value": "2 Mins" },
+                { "label": "NH16 Highway", "value": "5 Mins" },
+                { "label": "Vizag City Center", "value": "35 Mins" },
+                { "label": "Bhogapuram Intl Airport", "value": "25 Mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "100% Vastu",
+              "Club House",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks& Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Resindential Community",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads",
+              "VMRDA Approved"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "📈 Limited Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=KOHINOOR_HILLS"
+          }
+        }
+      },
+      "Atchutapuram": {
+        "thumbnail": "https://images.unsplash.com/photo-1566552881560-0be862a7c445?auto=format&fit=crop&q=80&w=1600",
+        "about": "Atchutapuram is a strategically located industrial and commercial hub in South Visakhapatnam, known for its proximity to the Navy base, Yelamanchili Highway, Industrial SEZ corridors, and Inner Ring Road. It offers excellent investment opportunities with rapid development in the surrounding region.",
+        "investmentPotential": "High appreciation potential driven by industrial SEZ corridors, defense presence, and infrastructure development.",
+        "connectivity": "Excellent access to Yelamanchili Highway, Inner Ring Road, and key industrial corridors.",
+        "projects": {
+          "TRUE PRIME COMMERCIAL": {
+            "id": "true-prime-commercial-atchutapuram",
+            "slug": "true-prime-commercial-atchutapuram",
+            "title": "True Prime Commercial",
+            "shortTagline": "Premium Commercial Plots in Atchutapuram - South Vizag",
+            "description": "True Prime Commercial offers strategically located commercial plots in Atchutapuram, South Vizag. Perfect for retail, offices, or showrooms, this project benefits from its proximity to the 4500-acre Navy base, Yelamanchili Highway, and Industrial SEZ corridors. Invest in a high-growth commercial zone with excellent ROI potential.",
+            "heroImage": "/projects/img/vsp/Truecommercialprime/img1.webp",
+            "gallery": [
+              "/projects/img/vsp/Truecommercialprime/img2.webp",
+              "/projects/img/vsp/Truecommercialprime/img3.webp"
+            ],
+            "themeColor": "#0047AB",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹16,999",
+              "pricePerSqYard": "₹16,999",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds", "500 Sq.Yds"],
+              "estimatedReturn5Years": "3.5x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "🏢 Prime Commercial Zone",
+              "limitedOfferText": "Book with ₹51,000 only!"
+            },
+            "developmentCost": {
+              "estimatedCost": "₹1,200",
+              "costIncludes": "GST",
+              "perUnit": "Per Sq.Yd",
+              "disclaimer": "The aforesaid payment options are a representation of the total cost of the plot including the estimated plot development cost and the same is subject to the final mutual agreement to be entered into between the purchaser and the plot development company appointed by such purchaser. The aforesaid plot development cost is only an estimate cost and is subject to the final mutual agreement."
+            },
+            "paymentOptions": {
+              "singlePayment": {
+                "bookingAmount": "51,000",
+                "allotmentAmount": "25% of plot cost (on or before 15 days from the date of booking)",
+                "fullPayment": "100% of plot cost (on or before 90 days from the date of booking)"
+              }
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Very near to NAVY based camp which is in 4500 Acres.",
+                "Beside to Yelamanchili Highway.",
+                "Near to Industrial SEZ corridors.",
+                "Near to Inner Ring Road.",
+                "Rapid development in the surrounding area.",
+                "Thriving community with robust infrastructure."
+              ],
+              "growthDrivers": [
+                "Proximity to 4500-acre Navy base",
+                "Industrial SEZ corridor expansion",
+                "Inner Ring Road connectivity",
+                "Yelamanchili Highway access"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=17.7,83.0&z=12&output=embed",
+              "distanceHighlights": [
+                { "label": "Navy Base", "value": "Nearby" },
+                { "label": "Yelamanchili Highway", "value": "Beside" },
+                { "label": "Industrial SEZ", "value": "Nearby" },
+                { "label": "Inner Ring Road", "value": "Nearby" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified", "Commercial Zoning Clearance"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🔥 Prime Commercial Plots Selling Fast!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=TRUE_PRIME_COMMERCIAL"
+          },
+          "KOHINOOR PRIME": {
+            "id": "kohinoor-prime-atchutapuram",
+            "slug": "kohinoor-prime-atchutapuram",
+            "title": "Kohinoor Prime",
+            "shortTagline": "Premium Residential Plots in Atchutapuram - South Vizag",
+            "description": "Kohinoor Prime offers premium residential plots in Atchutapuram, South Vizag. Located near the 4500-acre Navy base, Yelamanchili Highway, and Industrial SEZ corridors, this project combines peaceful living with excellent investment potential in a rapidly developing area.",
+            "heroImage": "/images/projects/img/vsp/kohinoor hills/img1.webp",
+            "gallery": [
+              "/images/projects/img/vsp/kohinoor hills/img2.webp",
+              "/images/projects/img/vsp/kohinoor hills/img3.webp",
+              "/images/projects/img/vsp/kohinoor hills/img4.webp"
+            ],
+            "themeColor": "#D4A017",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹16,999",
+              "pricePerSqYard": "₹16,999",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds"],
+              "estimatedReturn5Years": "3x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "🏆 Prime Residential Zone",
+              "limitedOfferText": "Book with ₹51,000 only!"
+            },
+            "developmentCost": {
+              "estimatedCost": "₹1,200",
+              "costIncludes": "GST",
+              "perUnit": "Per Sq.Yd",
+              "disclaimer": "The aforesaid payment options are a representation of the total cost of the plot including the estimated plot development cost and the same is subject to the final mutual agreement to be entered into between the purchaser and the plot development company appointed by such purchaser. The aforesaid plot development cost is only an estimate cost and is subject to the final mutual agreement."
+            },
+            "paymentOptions": {
+              "singlePayment": {
+                "bookingAmount": "51,000",
+                "allotmentAmount": "25% of plot cost (on or before 15 days from the date of booking)",
+                "fullPayment": "100% of plot cost (on or before 90 days from the date of booking)"
+              }
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Very near to NAVY based camp which is in 4500 Acres.",
+                "Beside to Yelamanchili Highway.",
+                "Near to Industrial SEZ corridors.",
+                "Near to Inner Ring Road.",
+                "Rapid development in the surrounding area.",
+                "Thriving community with robust infrastructure."
+              ],
+              "growthDrivers": [
+                "Proximity to 4500-acre Navy base",
+                "Industrial SEZ corridor expansion",
+                "Inner Ring Road connectivity",
+                "Yelamanchili Highway access"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=17.7,83.0&z=12&output=embed",
+              "distanceHighlights": [
+                { "label": "Navy Base", "value": "Nearby" },
+                { "label": "Yelamanchili Highway", "value": "Beside" },
+                { "label": "Industrial SEZ", "value": "Nearby" },
+                { "label": "Inner Ring Road", "value": "Nearby" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Guarded Community",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🔥 Limited Kohinoor Prime Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=KOHINOOR_PRIME"
+          }
+        }
+      }
+    }
+  },
+  "Srikakulam": {
+    "cityName": "Srikakulam",
+    "heroImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=1600",
+    "mapUrl": "https://datawrapper.dwcdn.net/uZQT6/3/",
+    "keyHighlights": [
+      "Emerging residential and investment destination in northern Andhra Pradesh",
+      "Excellent connectivity via NH-16",
+      "Growing social infrastructure including schools and hospitals",
+      "Affordable plot pricing with strong future ROI potential"
+    ],
+    "locations": {
+      "Cheepurupalli": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheepurupalli_Railway_Station.jpg/1280px-Cheepurupalli_Railway_Station.jpg",
+        "about": "Cheepurupalli is a strategically located location in Srikakulam district with strong connectivity to NH-16 and emerging residential growth due to expanding infrastructure and proximity to urban hubs.",
+        "investmentPotential": "High long-term appreciation potential due to infrastructure expansion and proximity to major transport corridors.",
+        "connectivity": "Direct access to NH-16, easy rail connectivity, and proximity to Srikakulam city center.",
+        "projects": {
+          "TRUE GOLD": {
+            "id": "true-gold-srikakulam",
+            "slug": "true-gold-cheepurupalli",
+            "title": "True Gold",
+            "shortTagline": "Affordable Plotted Development in Cheepurupalli",
+            "description": "True Gold is a premium residential plotted community developed by BBG India in Cheepurupalli, Srikakulam. The project offers VMRDA/DTCP approved open plots with modern infrastructure, clear title documents, wide blacktop roads, underground utilities, and green landscaped pockets. Designed for both investment and home construction, True Gold delivers strong ROI and lifestyle appeal.",
+            "heroImage": "/images/projects/img/sklm/true gold@chipurupalli/img1.webp",
+            "gallery": [
+              "/images/projects/img/sklm/true gold@chipurupalli/img2.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img3.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img4.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img5.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img6.webp",
+              "/images/projects/img/sklm/true gold@chipurupalli/img7.webp"
+            ],
+            "themeColor": "#D4A017",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹7,499",
+              "pricePerSqYard": "₹17,499",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds"],
+              "estimatedReturn5Years": "2.5x",
+              "appreciationPotential": "High",
+              "emiAvailable": true,
+              "priceBadge": "💰 Affordable Entry Zone",
+              "limitedOfferText": "Book with just ₹51,000!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "VMRDA/DTCP approval with clear titles",
+                "Located close to NH-16 for excellent connectivi",
+                "In close proximity to the Madhurawada IT Corridor",
+                "In close proximity to the Pydibhimavaram Industrial Corridor offering strategic advantages for industrial growth",
+                "Located in the neighborhood of the prestigious coastal corridor",
+                "Over 30000 direct and 1 lakh employment projected by 2020 indicating significant economic and employment growth potential.",
+                "Surrounded by prominent schools and colleges including Oakridge international ensuring acess to quality education and fostering commuity development.",
+                "Eduidistant to the three districts of Vizag Vijayanagaram and Srikakulam creating a well connected and vibrant community."
+              ],
+              "growthDrivers": [
+                "Infrastructure expansion along NH-16",
+                "Growth of residential demand in northern Andhra Pradesh",
+                "Proximity to Srikakulam urban developments"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=18.28172919639527,83.64016335678134&z=15&t=k&output=embed",
+              "distanceHighlights": [
+                { "label": "Intl Airport", "value": "57 Mins" },
+                { "label": "Railway Station", "value": "18 Mins" },
+                { "label": "Srikakulam City", "value": "47 Mins" },
+                { "label": "Vizag City", "value": "1 hr 57 mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "Designer Street Lighting",
+              "Exclusive Gaurder Community",
+              "Parks & Garderns Open Spaces",
+              "Rain Water Harvesting",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["DTCP Approved", "Clear Title Documents"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🚀 Limited Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=TRUE_GOLD"
+          }
+        }
+      }
+    }
+  },
+  "Amaravati": {
+    "cityName": "Amaravati",
+    "heroImage": "/projects/img/amaravathi/Amaravatithumbnail.webp",
+    "mapUrl": "https://datawrapper.dwcdn.net/qsrxD/1/",
+    "keyHighlights": [
+      "Capital City of Andhra Pradesh with strong administrative and development focus.",
+      "Robust upcoming infrastructure and civic expansion.",
+      "Proximity to educational and institutional hubs across Amaravati.",
+      "Affordable plotted developments with growth potential."
+    ],
+    "locations": {
+      "Kaza Junction": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amaravati_Kaza_junction.jpg/1280px-Amaravati_Kaza_junction.jpg",
+        "about": "Kaza Junction is strategically located within the Amaravati capital region with excellent connectivity to major arterial roads, future civic infrastructure and expanding residential demand.",
+        "investmentPotential": "Strong long-term appreciation expected as Amaravati continues to grow as a premier capital region.",
+        "connectivity": "Direct access to national highways, Amaravati city centers, and upcoming intercity transport corridors.",
+        "projects": {
+          "BEVERLY HILLS": {
+            "id": "beverly-hills-kaza",
+            "slug": "beverly-hills-kaza-junction",
+            "title": "Beverly Hills",
+            "shortTagline": "Prime Residential Plots at Kaza Junction",
+            "description": "Amaravati Prime is a premium plotted community at Kaza Junction in the Amaravati capital region. The project offers VMRDA & RERA-approved plots with modern infrastructure, well-planned road networks, green zones, and excellent connectivity—ideal for investment or building a home.",
+            "heroImage": "/projects/img/amaravathi/beverly hills/img3.webp",
+            "gallery": [
+              "/projects/img/amaravathi/beverly hills/img2.webp",
+              "/projects/img/amaravathi/beverly hills/img1.webp",
+              "/projects/img/amaravathi/beverly hills/img4.webp",
+              "/projects/img/amaravathi/beverly hills/img5.webp",
+              "/projects/img/amaravathi/beverly hills/img6.webp"
+            ],
+            "themeColor": "#2E7D32",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "₹24,999",
+              "pricePerSqYard": "₹24,999",
+              "availablePlotSizes": ["150 Sq.Yds", "200 Sq.Yds", "300 Sq.Yds"],
+              "estimatedReturn5Years": "2.7x",
+              "appreciationPotential": "High",
+              "emiAvailable": true,
+              "priceBadge": "🌱 Early Growth Zone",
+              "limitedOfferText": "Book with ₹51,000 & secure today's rate!"
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Located within the Amaravati capital development region",
+                "Butterfly Junction @ Kaza-A Strategic connecting point",
+                "Excellent road network acess - Inner & Outer Ring Roads",
+                "Smooth traffic bypass routes- West & East Bypass Roads",
+                "Seamless transportation with NH-16 National Highway",
+                "Futre IT & Innovation Center - Ratan Tata Innovation Hub",
+                "Amaravati - Anantapur Expressway - Statewide easy connectivity",
+                "Namburu - Errupalem Railway Junction - Railway transport acess",
+                "AIMS & Acharya Nagarjuna University - Premier education & Hospitals",
+                "IT Corridor - The center for jobs & growth"
+              ],
+              "growthDrivers": [
+                "Ongoing Amaravati urban development",
+                "Transport and civic infrastructure expansion",
+                "Rising demand for plotted residential land"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=16.541,80.501&z=15&t=h&output=embed",
+              "distanceHighlights": [
+                { "label": "Amaravati City Center", "value": "10 Mins" },
+                { "label": "NH16 Highway", "value": "5 Mins" },
+                { "label": "Vijayawada", "value": "35 Mins" },
+                { "label": "Guntur City", "value": "40 Mins" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "100% Vastu",
+              "Club House",
+              "Designer Street Lighting",
+              "Exclusive Gaurder Community",
+              "Parks & Garderns Open Spaces",
+              "Rain Water Harvesting",
+              "Swimming pool",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "📈 Limited Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=AMARAVATI_PRIME"
+          }
+        }
+      },
+      "Kondapavuluru": {
+        "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1600",
+        "about": "Kondapavuluru (Capital West) is a prime residential and investment destination in the Amaravati capital region. With exceptional connectivity to West Bypass Road, NH-16, Gannavaram Airport, and major IT hubs like Medha IT Park and HCL Technologies, this location offers rapid development and strong appreciation potential.",
+        "investmentPotential": "Exceptional appreciation potential driven by capital region development, proximity to airport, IT corridor, and excellent transport connectivity.",
+        "connectivity": "Excellent access to West Bypass Road, NH-16 (100 meters), Gannavaram Airport (9 km), and Vijayawada City (10 km).",
+        "projects": {
+          "CAPITAL WEST KONDAPAVULURU": {
+            "id": "capital-west-kondapavuluru",
+            "slug": "capital-west-kondapavuluru",
+            "title": "Capital West Kondapavuluru",
+            "shortTagline": "Premium Residential Plots in Amaravati Capital Region",
+            "description": "Capital West Kondapavuluru is a premier residential plotted development located in the heart of the Amaravati capital region. With exceptional connectivity to NH-16 (just 100 meters away), West Bypass Road, and Gannavaram Airport (9 km), this project offers the perfect blend of peaceful living and high-return investment potential.",
+            "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1600",
+            "gallery": [
+              "/images/projects/img/amaravathi/beverly hills/img1.webp",
+              "/images/projects/img/amaravathi/beverly hills/img2.webp",
+              "/images/projects/img/amaravathi/beverly hills/img3.webp"
+            ],
+            "themeColor": "#2E7D32",
+            "highlight": true,
+            "pricing": {
+              "basePrice": "Contact for Pricing",
+              "pricePerSqYard": "Call for Best Offer",
+              "availablePlotSizes": ["200 Sq.Yds", "300 Sq.Yds", "400 Sq.Yds", "500 Sq.Yds"],
+              "estimatedReturn5Years": "3x",
+              "appreciationPotential": "Very High",
+              "emiAvailable": true,
+              "priceBadge": "🏛️ Amaravati Capital Zone",
+              "limitedOfferText": "Book with ₹1,00,000 only!"
+            },
+            "paymentOptions": {
+              "singlePayment": {
+                "bookingAmount": "1,00,000",
+                "allotmentAmount": "25% of plot cost (on or before 7 days from the date of booking)",
+                "fullPayment": "100% of plot cost (on or before 30 days from the date of booking)"
+              }
+            },
+            "investmentHooks": {
+              "whyInvest": [
+                "Very Close to West Bypass Road",
+                "Gannavaram Airport – 9 KM",
+                "Adjacent to NH-16 – 100 meters",
+                "Vijayawada–Hyderabad National Highway Junction – 10 KM",
+                "Near Gannavaram Railway Station – 8 KM",
+                "Vijayawada City – 10 KM",
+                "Medha IT Park – 9 KM",
+                "HCL Technologies – 9 KM",
+                "Pinnamaneni Siddhartha Medical College – 10 KM"
+              ],
+              "growthDrivers": [
+                "Amaravati capital region development",
+                "Proximity to Gannavaram Airport",
+                "IT corridor expansion (Medha IT Park, HCL)",
+                "Excellent NH-16 connectivity"
+              ]
+            },
+            "locationConnectivity": {
+              "mapEmbedUrl": "https://www.google.com/maps?q=16.5,80.6&z=12&output=embed",
+              "distanceHighlights": [
+                { "label": "West Bypass Road", "value": "Very Close" },
+                { "label": "NH-16 Highway", "value": "100 meters" },
+                { "label": "Gannavaram Airport", "value": "9 KM" },
+                { "label": "Vijayawada City", "value": "10 KM" },
+                { "label": "Gannavaram Railway Station", "value": "8 KM" },
+                { "label": "Medha IT Park", "value": "9 KM" },
+                { "label": "HCL Technologies", "value": "9 KM" },
+                { "label": "Pinnamaneni Medical College", "value": "10 KM" },
+                { "label": "Vijayawada–Hyderabad Hwy Jn", "value": "10 KM" }
+              ]
+            },
+            "amenities": [
+              "24x7 Security",
+              "100% Vastu",
+              "Club House",
+              "Designer Street Lighting",
+              "Parks & Gardens Open Spaces",
+              "Rain Water Harvesting",
+              "Residential Community",
+              "Swimming pool",
+              "Underground drainage system",
+              "Underground Water Supply",
+              "Wide Spacious Black Top Roads"
+            ],
+            "trustSignals": {
+              "reraApproved": true,
+              "bankLoanAvailable": true,
+              "approvals": ["VMRDA Approved", "RERA Certified", "DTCP Approved"]
+            },
+            "leadGen": {
+              "ctaPrimaryText": "Book Free Site Visit",
+              "ctaSecondaryText": "Download Brochure",
+              "whatsappNumber": "9550563283",
+              "urgencyTag": "🏛️ Capital West – Limited Plots Available!"
+            },
+            "brochureUrl": "https://drive.google.com/uc?export=download&id=CAPITAL_WEST_KONDAPAVULURU"
+          }
+        }
+      }
+    }
+  }
+}

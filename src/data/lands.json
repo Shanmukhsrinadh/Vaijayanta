@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "type": "land",
+    "city": "Srikakulam",
+    "location": "Ichapuram",
+    "name": "Ichapuram Beach Land",
+    "shortTagline": "150 Acres of Prime Coastal Land",
+    "description": "Exclusive opportunity to own prime beach-side land in Ichapuram. Perfect for resort developers, long-term investors, or individual farm-house plots. This 150-acre parcel offers unmatched scenic beauty and proximity to the growing coastal corridor.",
+    "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=1200",
+    "price": "₹12,000 - ₹15,000 per cent",
+    "pricing": {
+      "basePrice": "₹12,000",
+      "priceBadge": "🏖️ Beachfront Opportunity",
+      "estimatedReturn5Years": "3x"
+    },
+    "investmentHooks": {
+      "whyInvest": [
+        "Rare 150-acre contiguous land parcel",
+        "Direct beach access and scenic views",
+        "Rapidly developing tourism corridor",
+        "Clear documentation for private ownership"
+      ]
+    },
+    "locationConnectivity": {
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30345.123456789!2d84.6!3d19.1!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3d!2sIchchapuram!5e0!3m2!1sen!2sin!4v123456789",
+      "distanceHighlights": [
+        { "label": "Beach", "value": "0 Mins" },
+        { "label": "Ichapuram Town", "value": "10 Mins" }
+      ]
+    },
+    "trustSignals": {
+      "approvals": ["Private Land", "Clear Title Verified"]
+    },
+    "leadGen": {
+      "ctaPrimaryText": "Inquire Price",
+      "whatsappNumber": "9550563283",
+      "urgencyTag": "📍 High Demand Area"
+    }
+  },
+  {
+    "id": 2,
+    "type": "land",
+    "city": "Srikakulam",
+    "location": "Ichapuram",
+    "name": "Ichapuram Highway Land",
+    "shortTagline": "200 Acres Prime Land Near NH-16",
+    "description": "Strategically located 200-acre land parcel adjacent to the NH-16 highway. Ideal for industrial warehouses, commercial setups, or residential layouts.",
+    "heroImage": "https://images.unsplash.com/photo-1545143333-573a7a4f208c?auto=format&fit=crop&q=80&w=1200",
+    "price": "₹15,000 - ₹30,000 per cent",
+    "pricing": {
+      "basePrice": "₹15,000",
+      "priceBadge": "🛣️ Highway Frontage",
+      "estimatedReturn5Years": "2.5x"
+    },
+    "investmentHooks": {
+      "whyInvest": [
+        "200-acre mega parcel with NH-16 frontage",
+        "Perfect for commercial/industrial use",
+        "Strategic location on AP-Odisha border"
+      ]
+    },
+    "locationConnectivity": {
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30345!2d84.6!3d19.1!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3d!2sIchchapuram!5e0!3m2!1sen!2sin!4v123456789",
+      "distanceHighlights": [
+        { "label": "NH-16 Highway", "value": "0 Mins" },
+        { "label": "Ichapuram Station", "value": "5 Mins" }
+      ]
+    },
+    "trustSignals": {
+      "approvals": ["Private Land", "Clear Title Verified"]
+    },
+    "leadGen": {
+      "ctaPrimaryText": "Inquire Price",
+      "whatsappNumber": "9550563283",
+      "urgencyTag": "📈 Commercial Hotspot"
+    }
+  },
+  {
+    "id": 3,
+    "type": "land",
+    "city": "Srikakulam",
+    "location": "Naupada",
+    "name": "Naupada Private Land",
+    "shortTagline": "Exclusive Investment Land (Negotiable)",
+    "description": "A premium private land parcel in Naupada. This location is seeing rapid interest due to coastal corridor developments.",
+    "heroImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=1200",
+    "price": "₹30 - ₹40 Lakhs",
+    "pricing": {
+      "basePrice": "₹30 Lakhs",
+      "priceBadge": "🤝 Negotiable Price",
+      "estimatedReturn5Years": "2.5x"
+    },
+    "investmentHooks": {
+      "whyInvest": [
+        "Strategic coastal proximity",
+        "Rapidly developing industrial zone",
+        "High future resale value"
+      ]
+    },
+    "locationConnectivity": {
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60855.123456789!2d84.2!3d18.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3d!2sNaupada!5e0!3m2!1sen!2sin!4v123456789",
+      "distanceHighlights": [
+        { "label": "Naupada Station", "value": "8 Mins" },
+        { "label": "Coast", "value": "12 Mins" }
+      ]
+    },
+    "trustSignals": {
+      "approvals": ["Private Land", "Direct Ownership"]
+    },
+    "leadGen": {
+      "ctaPrimaryText": "Get Best Offer",
+      "whatsappNumber": "9550563283",
+      "urgencyTag": "💎 Prime Asset"
+    }
+  },
+  {
+    "id": 4,
+    "type": "land",
+    "city": "Srikakulam",
+    "location": "Narasannapeta",
+    "name": "Narasannapeta Plot",
+    "shortTagline": "40 Lakhs Negotiable - Prime Location",
+    "description": "High-visibility land plot in Narasannapeta. Perfectly suited for commercial ventures or residential construction.",
+    "heroImage": "https://images.unsplash.com/photo-1533167649152-6d529da14f7d?auto=format&fit=crop&q=80&w=1200",
+    "price": "₹40 Lakhs",
+    "pricing": {
+      "basePrice": "₹40 Lakhs",
+      "priceBadge": "📍 Center Location",
+      "estimatedReturn5Years": "2x"
+    },
+    "investmentHooks": {
+      "whyInvest": [
+        "Settled area with immediate value",
+        "Excellent commercial potential",
+        "Access to power and water utilities"
+      ]
+    },
+    "locationConnectivity": {
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60855!2d84.0!3d18.4!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3d!2sNarasannapeta!5e0!3m2!1sen!2sin!4v123456789",
+      "distanceHighlights": [
+        { "label": "Town Center", "value": "2 Mins" },
+        { "label": "NH-16", "value": "5 Mins" }
+      ]
+    },
+    "trustSignals": {
+      "approvals": ["Private Land", "Clear Titles"]
+    },
+    "leadGen": {
+      "ctaPrimaryText": "Book Visit",
+      "whatsappNumber": "9550563283",
+      "urgencyTag": "✅ Ready for Sale"
+    }
+  }
+]
