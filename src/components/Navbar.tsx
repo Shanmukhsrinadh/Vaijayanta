@@ -7,14 +7,14 @@ import SearchBar from './SearchBar';
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
-  const [currentPath] = useLocation();
+  const [currentPath, navigate] = useLocation();
 
   const navLinks = useMemo(
     () => [
-      { name: 'Home', href: '/' },
-      { name: 'Properties', href: '/#properties' },
-      { name: 'Locations', href: '/#locations' },
-      { name: 'Contact', href: '/#contact' },
+      { name: 'Home', href: '/', sectionId: '' },
+      { name: 'Properties', href: '/#properties', sectionId: 'properties' },
+      { name: 'Locations', href: '/#locations', sectionId: 'locations' },
+      { name: 'Contact', href: '/#contact', sectionId: 'contact' },
     ],
     []
   );
@@ -23,44 +23,33 @@ function Navbar() {
   const toggleMenu = useCallback(() => setIsOpen((prev) => !prev), []);
   const closeSearch = useCallback(() => setIsSearchOpen(false), []);
 
-  const scrollToHash = useCallback((hash: string) => {
-    const el = document.getElementById(hash);
+  const scrollToSection = useCallback((sectionId: string) => {
+    if (!sectionId) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      return;
+    }
+    const el = document.getElementById(sectionId);
     if (el) {
       const y = el.getBoundingClientRect().top + window.pageYOffset - 80;
       window.scrollTo({ top: y, behavior: 'smooth' });
-    } else {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   }, []);
 
   const handleNavClick = useCallback(
-    (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
+    (e: React.MouseEvent<HTMLAnchorElement>, sectionId: string) => {
       e.preventDefault();
       setIsOpen(false);
 
       const isOnHome = currentPath === '/';
-      const hashIndex = href.indexOf('#');
-
-      if (hashIndex === -1) {
-        // HOME link — no hash
-        if (isOnHome) {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        } else {
-          window.location.href = '/';
-        }
-        return;
-      }
-
-      const hash = href.substring(hashIndex + 1);
 
       if (isOnHome) {
-        scrollToHash(hash);
+        scrollToSection(sectionId);
       } else {
-        // Navigate to home, then scroll after Home mounts
-        window.location.href = `/#${hash}`;
+        navigate('/');
+        setTimeout(() => scrollToSection(sectionId), 350);
       }
     },
-    [currentPath, scrollToHash]
+    [currentPath, navigate, scrollToSection]
   );
 
   return (
@@ -101,7 +90,7 @@ function Navbar() {
               <a
                 key={link.name}
                 href={link.href}
-                onClick={(e) => handleNavClick(e, link.href)}
+                onClick={(e) => handleNavClick(e, link.sectionId)}
                 className="text-sm font-bold uppercase tracking-widest text-gray-800 hover:text-[#e8c547] transition-colors whitespace-nowrap"
               >
                 {link.name}
@@ -126,7 +115,7 @@ function Navbar() {
                 key={link.name}
                 href={link.href}
                 className="text-xl font-black text-[#800020] uppercase tracking-widest"
-                onClick={(e) => handleNavClick(e, link.href)}
+                onClick={(e) => handleNavClick(e, link.sectionId)}
               >
                 {link.name}
               </a>
